@@ -31,6 +31,10 @@ gem "font-awesome-rails"
 
 #to create forms the easy way
 gem "simple_form"
+
+#Devise is a flexible authentication solution for Rails based on Warden.
+gem "devise"
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 

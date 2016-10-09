@@ -35,6 +35,9 @@ gem "simple_form"
 #Devise is a flexible authentication solution for Rails based on Warden.
 gem "devise"
 
+
+gem 'auto_html', '~> 1.6'
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
